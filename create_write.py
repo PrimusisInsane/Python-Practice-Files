@@ -1,0 +1,2 @@
+with open(r"C:\Users\adjik\AppData\Roaming\Python\Python314\Python-Learning\Fundamentals\practice_scribbles\terms.txt", "w")as file:
+    file.write("This document is written replacing the original content and giving it a new one")

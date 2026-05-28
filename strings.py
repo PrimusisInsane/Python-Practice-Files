@@ -1,0 +1,7 @@
+message = input("Enter your word: ")
+print(message.upper())
+print(message.lower())
+print(len(message))
+print(message[0])
+print(message[-2])
+print(message[0:4])
